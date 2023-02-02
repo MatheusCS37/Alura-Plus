@@ -174,7 +174,7 @@ body{
     .container__image{width: 50vw; margin: 2em 0;}
     .container__caixa{margin: 2em 2em;}
 
-    .secundario{margin: 2em 2em; text-align: center;}
+    .secundario{margin: 0; text-align: center;}
     .secundario__imagem{width: 70vw;}
 
     .dispositivos__lista{display: block;}
