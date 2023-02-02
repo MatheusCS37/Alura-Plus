@@ -177,7 +177,7 @@ body{
     .secundario{margin: 2em 2em; text-align: center;}
     .secundario__imagem{width: 70vw;}
 
-    .dispositivos__titulo{margin: 0 1em;}
+    .dispositivos{margin: 2em 2em;}
 
     .dispositivos__lista{display: block;}
 
