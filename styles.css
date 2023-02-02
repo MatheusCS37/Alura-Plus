@@ -177,13 +177,13 @@ body{
     .secundario{margin: 0; text-align: center;}
     .secundario__imagem{width: 70vw;}
 
+    .dispositivos__titulo{padding: 2px;}
     .dispositivos__lista{display: block;}
 
     .footer__links{display: flex; flex-direction: column; text-align: center;}
-
     .footer{margin: 2em 2em;}
-
     .footer__elements{padding: 1em;}
-
     .footer__informacoes{margin: 2em 2em;}
+
+    .logo__alura__container{margin-bottom: 3em;}
 }
